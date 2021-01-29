@@ -1,0 +1,49 @@
+#main_page_landingpage{
+    background-image: url(../images/banner_background.png);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
+}
+
+#main_page{
+    margin-top: 50px;
+}
+
+/* .nav-link > a { 
+    color: rgb(255, 255, 255)
+} */
+
+.nav-link {
+    color: rgb(255, 255, 255) !important;
+}
+
+.active{
+    color: rgb(2, 2, 2) !important;
+}
+
+img#me_v2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.name_and_profession{
+    margin-top: 20px;
+}
+
+.github_and_linked{
+   position: relative; 
+}
+
+.card .card-header{
+    background-color: rgb(56, 78, 139);
+    color:  rgb(56, 78, 139);
+}
+
+
+
+
